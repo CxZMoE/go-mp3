@@ -22,9 +22,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/hajimehoshi/oto"
+	oto "github.com/CxZMoE/oto"
 
-	"github.com/hajimehoshi/go-mp3"
+	"github.com/CxZMoE/go-mp3"
 )
 
 func run() error {
