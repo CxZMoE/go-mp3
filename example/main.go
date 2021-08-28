@@ -21,7 +21,7 @@ import (
 	"log"
 	"os"
 
-	oto "github.com/CxZMoE/oto/v2"
+	oto "github.com/CxZMoE/oto"
 
 	"github.com/CxZMoE/go-mp3"
 )
